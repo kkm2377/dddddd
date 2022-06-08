@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 liff
   .init({ 
-    liffId: "1651833066-zO3vlq60"
+    liffId: "1651833066-zO3vlq60",
     withLoginOnExternalBrowser: true, // Enable automatic login process
   })
   .then(() => {
